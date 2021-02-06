@@ -18,7 +18,7 @@ class Navbar extends Component {
             className="d-inline-block align-top"
             alt=""
           />
-          &nbsp; HIT Token Farm
+          &nbsp; HIT Lending Platform
         </a>
 
         <ul className="navbar-nav px-3">
