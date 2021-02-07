@@ -38,6 +38,7 @@
     "not op_mini all"
   ],
   "devDependencies": {
+    "@openzeppelin/truffle-upgrades": "^1.5.0",
     "@truffle/hdwallet-provider": "^1.2.1"
   }
 }

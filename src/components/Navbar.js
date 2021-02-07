@@ -7,7 +7,7 @@ class Navbar extends Component {
       <nav className="navbar navbar-dark fixed-top bg-dark flex-md-nowrap p-0 shadow">
         <a
           className="navbar-brand col-sm-3 col-md-2 mr-0"
-          href="http://localhost:3000"
+          href="http://royalhits.herokuapp.com"
           target="_blank"
           rel="noopener noreferrer"
         >
@@ -18,7 +18,7 @@ class Navbar extends Component {
             className="d-inline-block align-top"
             alt=""
           />
-          &nbsp; HIT Lending Platform
+          &nbsp; Reload with your Metamask selected accout
         </a>
 
         <ul className="navbar-nav px-3">
