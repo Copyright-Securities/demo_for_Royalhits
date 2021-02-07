@@ -18,7 +18,7 @@ class Navbar extends Component {
             className="d-inline-block align-top"
             alt=""
           />
-          &nbsp; Reload with your Metamask selected accout
+          &nbsp; Reload with your Metamask selected account
         </a>
 
         <ul className="navbar-nav px-3">
